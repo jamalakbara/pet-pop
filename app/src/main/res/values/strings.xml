@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Pet Pop</string>
+
+    <string name="email_label">email</string>
+    <string name="name_label">name</string>
+    <string name="password_label">password</string>
+    <string name="sign_up_label">sign up</string>
+    <string name="log_in_label">Log in</string>
+
+    <string name="have_an_account_label">Have an account</string>
+    <string name="dont_have_an_account_label">Dont have an account</string>
+</resources>
