@@ -9,4 +9,6 @@
 
     <string name="have_an_account_label">Have an account</string>
     <string name="dont_have_an_account_label">Dont have an account</string>
+
+    <string name="search_label">What are you looking for?</string>
 </resources>
